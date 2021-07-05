@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 329863175
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: colorwheel
+      Dependencies: {}
