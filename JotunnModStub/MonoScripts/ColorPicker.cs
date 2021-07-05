@@ -44,7 +44,8 @@ public class ColorPicker : MonoBehaviour
     private void Awake()
     {
         instance = this;
-        gameObject.SetActive(false);
+        //gameObject.SetActive(false);
+
     }
 
 
